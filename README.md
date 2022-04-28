@@ -2,7 +2,7 @@
 It is a simple game-application written on Swift.
 ### How to use?
 - Git clone this repository
-- Run GameCode.swift it on Xcode
+- Run GameCode.swift on Xcode
 - Enjoy
 ### Idea of the game
 The idea of the game is to collect "stars" via barriers.
